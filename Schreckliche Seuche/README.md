@@ -1,0 +1,3 @@
+# Schreckliche Seuche
+
+Schreckliche Seuche is a Java-based disease simulator I worked on with Ryan Tiedemann and Esha Singhai. For this project, I worked mostly on the simulation itself, designing an object-oriented simulation of a disease spreading through a population, with user-set variables to influence how the disease spreads. Additionally, I developed various graphical systems to easily show the spread of the disease in a user-friendly way, including showing individual people moving throughout their community color-coded to match their status as uninfected, infected, recovered, etc.; I also created a visualization tool which compiled the data from the simulation into three graphs which update live throughout the course of the simulation.
