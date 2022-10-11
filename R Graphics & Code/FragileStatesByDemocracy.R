@@ -1,5 +1,5 @@
 rm(list = ls())
-setwd("/Users/andrewcupps/Documents/HGLO101/datasets")
+setwd("set this to some destination")
 getwd()
 
 library("tidyverse")
